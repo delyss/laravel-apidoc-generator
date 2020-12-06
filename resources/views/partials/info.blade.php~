@@ -2,10 +2,10 @@
 
 Welcome to the Ozan Agreement API.
 
-<h2>Request</h2>
+<h2>Request:</h2>
 It authenticates your API requests using your account’s <b>API key</b>. If you do not include your key when making an API request then returns an error.
 
-<h2>Response</h2>
+<h2>Response:</h2>
 Response Details
 <table>
     <thead>
