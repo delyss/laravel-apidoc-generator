@@ -39,7 +39,7 @@ Response Details
             <td><code>data</code></td>
             <td>array, object</td>
             <td>Response data</td>
-            <td>{provisionNo: 1234, date:1607275358}</td>
+            <td>{paymentId: 1234, date:1607275358}</td>
         </tr>
     </tbody>
 </table>
